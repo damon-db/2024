@@ -1,0 +1,41 @@
+baseURL = 'https://damon-db.github.io/2024/'
+languageCode = 'en-us'
+title = 'DaMoN 2024 Workshop'
+
+disableKinds = ["taxonomy", ]
+
+[params]
+  [params.banner]
+    image = "img/title_Santiago_de_Chile_panoramaped.jpg"
+    sponsors = ["img/alibaba_logo.png", "img/amazon_logo.png", "img/intel_logo.png", "img/sap_logo.png"]
+  [params.logo]
+    large = "logo/DaMon_logo_20yrs.png"
+    small = "logo/DaMon_logo_20yrs.png"
+  [params.workshop]
+    number = 20
+    title = "Data Management on New Hardware (DaMoN)"
+    date = "Monday June 10, 2024"
+  [params.conference]
+    title = "ACM SIGMOD/PODS"
+    link = "https://2024.sigmod.org/"
+    year = 2024
+    location = "Santiago, Chile" 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true # default is false
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
+        errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+
+[module]
+  [[module.imports]]
+    path = "github.com/damondb/hugo-damon-db"
+
+[build]
+  writeStats = true
