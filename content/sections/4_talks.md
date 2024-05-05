@@ -1,10 +1,10 @@
 ---
-title: "Invited Talks"
+title: "Keynotes"
 weight: 4
 theme: "damon-dark"
 ---
 
-# Invited Talks
+# Keynotes
 
 </br>
 
@@ -15,3 +15,8 @@ theme: "damon-dark"
 
 ### Title: Comming Soon
 #### Manos Athanassoulis, Boston University
+
+---
+
+### Title: Comming Soon
+#### Philippe Bonnet, IT University of Copenhagen
