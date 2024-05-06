@@ -1,22 +1,21 @@
 ---
-title: "Keynotes"
+title: "Keynote & Talks"
 weight: 4
 theme: "damon-dark"
 ---
 
-# Keynotes
+# Keynote & Invited Talks
 
-</br>
+## Keynote
+#### Philippe Bonnet, IT University of Copenhagen
 
-### Title: Comming Soon
+## Invited Talks
+
+---
+
 #### David A. Patterson, University of California Berkeley
 
 --- 
 
-### Title: Comming Soon
 #### Manos Athanassoulis, Boston University
 
----
-
-### Title: Comming Soon
-#### Philippe Bonnet, IT University of Copenhagen
