@@ -20,3 +20,5 @@ github.com/damondb/hugo-damon-db v0.1.7 h1:J1ARx6o8icx4fFfi9EbO0PhAVRSpVquT+4k33
 github.com/damondb/hugo-damon-db v0.1.7/go.mod h1:18Hdtj7PBUHkmRr9vN+v0PDi2uCUztXLdBK8Ntr534M=
 github.com/damondb/hugo-damon-db v0.1.8 h1:Y8E+79GOwAGTKolZ5k3l2SwlUSmiIRDPqeJEBpcVjIU=
 github.com/damondb/hugo-damon-db v0.1.8/go.mod h1:18Hdtj7PBUHkmRr9vN+v0PDi2uCUztXLdBK8Ntr534M=
+github.com/damondb/hugo-damon-db v0.1.9 h1:WFW2eLnAck57egac4YMlpgy3Azy6lTB4Pn2JbcJriWo=
+github.com/damondb/hugo-damon-db v0.1.9/go.mod h1:18Hdtj7PBUHkmRr9vN+v0PDi2uCUztXLdBK8Ntr534M=

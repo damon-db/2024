@@ -7,7 +7,26 @@ disableKinds = ["taxonomy", ]
 [params]
   [params.banner]
     image = "img/title_Santiago_de_Chile_panoramaped.jpg"
-    sponsors = ["img/alibaba_logo.png", "img/amazon_logo.png", "img/intel_logo.png", "img/sap_logo.png"]
+    [[params.banner.sponsors]]
+      name = "Alibaba"
+      file = "img/alibaba_logo.webp"
+      style = "max-width: 400px"
+    [[params.banner.sponsors]]
+      name = "Amazon"
+      file = "img/amazon_logo.png"
+      style = "max-width: 400px"
+    [[params.banner.sponsors]]
+      name = "Google"
+      file = "img/google_logo.webp"
+      style = "max-width: 500px"
+    [[params.banner.sponsors]]
+      name = "Intel"
+      file = "img/intel_logo.png"
+      style = "max-width: 300px"
+    [[params.banner.sponsors]]
+      name = "SAP"
+      file = "img/sap_logo.png"
+      style = "max-width: 400px"
   [params.logo]
     large = "logo/DaMon_logo_20yrs.png"
     small = "logo/DaMon_logo_20yrs.png"
