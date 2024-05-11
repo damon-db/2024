@@ -44,11 +44,11 @@ This year all accepted DaMoN papers will be considered for a **best paper award*
 We intend to invite extended versions of a selection of DaMoN'24 papers for submission to the VLDB Journal. Extended papers that are accepted by the VLDB Journal will appear in a special “Best of DaMoN 2024” section within one of the regular VLDBJ issues.
 
 ## Important Dates
-Paper submission: ~~March 15th, 2024~~ March 22nd, 2024 (11:59pm Pacific Daylight Time)
+Paper submission: ~~March 15th, 2024~~ March 22nd, 2024 (11:59pm PST)
 
 Notification of acceptance: ~~April 26th, 2024~~ April 29th, 2024
 
-Camera-ready copies: May 10th, 2024
+Camera-ready copies: ~~May 10th, 2024~~ May 15th, 2024 (23:59pm PST)
 
 Workshop: June 10th, 2024
 

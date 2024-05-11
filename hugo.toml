@@ -10,23 +10,23 @@ disableKinds = ["taxonomy", ]
     [[params.banner.sponsors]]
       name = "Alibaba"
       file = "img/alibaba_logo.webp"
-      style = "max-width: 400px"
+      style = "max-width: 200px"
     [[params.banner.sponsors]]
       name = "Amazon"
       file = "img/amazon_logo.png"
-      style = "max-width: 400px"
+      style = "max-width: 200px"
     [[params.banner.sponsors]]
       name = "Google"
       file = "img/google_logo.webp"
-      style = "max-width: 500px"
+      style = "max-width: 250px"
     [[params.banner.sponsors]]
       name = "Intel"
       file = "img/intel_logo.png"
-      style = "max-width: 300px"
+      style = "max-width: 150px"
     [[params.banner.sponsors]]
       name = "SAP"
       file = "img/sap_logo.png"
-      style = "max-width: 400px"
+      style = "max-width: 200px"
   [params.logo]
     large = "logo/DaMon_logo_20yrs.png"
     small = "logo/DaMon_logo_20yrs.png"
