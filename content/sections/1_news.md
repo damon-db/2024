@@ -6,6 +6,7 @@ hideMenu: true
 
 # News
 
+- [Workshop program](#workshop-program) posted.
 - We extended the camera-ready until Wednesday, May 15th, 2024 (11:59pm PST).
 - [Keynote and invited talks](#keynote--invited-talks) posted:
     - Keynote: Philippe Bonnet (IT University of Copenhagen)
