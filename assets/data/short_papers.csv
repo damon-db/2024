@@ -1,5 +1,5 @@
 title,authors
-In situ neighborhood sampling for large-scale GNN training,Yuhang Song (Boston University); Po Hao Chen (Brown University); Yuchen Lu (Boston University); Naima Abrar Shami (Boston University); Vasiliki Kalavri (Boston University)
+In situ Neighborhood Sampling for Large-Scale GNN Training,Yuhang Song (Boston University); Po Hao Chen (Brown University); Yuchen Lu (Boston University); Naima Abrar Shami (Boston University); Vasiliki Kalavri (Boston University)
 Performance or Efficiency? A Tale of Two Cores for DB Workloads,Rathijit Sen (Microsoft)
 Seamless: Transparent Storage Access Through Smart Switches,Simon Binder (TU Darmstadt); Matthias Jasny (TU Darmstadt); Tobias Ziegler (TU Darmstadt)
 "DuckDB-SGX2: The Good, The Bad and The Ugly within Confidential Analytical Query Processing","Ilaria Battiston (CWI); Charlotte C Felius (CWI); Sam Ansmink (DuckDB Labs); Laurens Kuiper (CWI, DuckDB Labs); Peter Boncz (CWI)"
