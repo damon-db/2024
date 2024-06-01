@@ -6,6 +6,7 @@ hideMenu: true
 
 # News
 
+- All papers are available at the [ACM portal](https://dl.acm.org/doi/proceedings/10.1145/3662010)
 - [Workshop program](#workshop-program) posted.
 - We extended the camera-ready until Wednesday, May 15th, 2024 (11:59pm PST).
 - [Keynote and invited talks](#keynote--invited-talks) posted:

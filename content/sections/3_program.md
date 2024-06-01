@@ -6,14 +6,14 @@ theme: "damon-light"
 
 # Workshop Program
 
-## Program - Monday (June 10, 2024)
+## Program - Monday (June 10, 2024), Room: Parinacota
 
 ---
 #### 09:30 - 10:00 Coffee Break
 ---
 #### 10:00-10:10 Workshop Opening (Carsten Binnig & Nesime Tatbul)
 ---
-#### 10:10-12:15 Session 1: Data Access and Data Structures (Session Chair: TBD)
+#### 10:10-12:15 Session 1: Data Access and Data Structures (Session Chair: Nesime Tatbul)
 
 10:10-11:00 [Keynote](#keynote-talk) **(Philippe Bonnet)**
 {.px-3}
@@ -39,7 +39,7 @@ theme: "damon-light"
 ---
 #### 13:30-14:00 Sponsors Session (Alibaba, Amazon, Google, Intel, SAP)
 --- 
-#### 14:00-15:30 Session 2: Disaggregation and Prefetching (Session Chair: TBD)
+#### 14:00-15:30 Session 2: Disaggregation and Prefetching (Session Chair: Carsten Binnig)
 
 14:00-14:30 [Invited Talk](#invited-talk) **(David Patterson)** 
 {.px-3}
@@ -60,7 +60,7 @@ theme: "damon-light"
 ---
 #### 15:30-16:00 Coffee Break
 ---
-#### 16:00-18:30 Session 3: Privacy and Heterogeneity (Session Chair: TBD)
+#### 16:00-17:40 Session 3: Privacy and Heterogeneity (Session Chair: Thomas Neumann)
 
 16:00-16:30 [Fresh Thinking Talk](#fresh-thinking-talk) **(Manos Athanassoulis)**
 {.px-3}

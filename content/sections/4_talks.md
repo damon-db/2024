@@ -1,5 +1,5 @@
 ---
-title: "Keynote & Talks"
+title: "Keynote & Invited Talks"
 weight: 4
 theme: "damon-dark"
 ---
@@ -8,7 +8,7 @@ theme: "damon-dark"
 
 ## Keynote Talk
 ### NVMe and Data Systems: A Decade and Counting
-#### Philippe Bonnet, IT University of Copenhagen
+<h4 style="text-align: center;">Philippe Bonnet, IT University of Copenhagen</h4>
 
 ![Potrait of Philippe Bonnet](/img/philippe_bonnet.png)
 
@@ -24,7 +24,7 @@ Philippe Bonnet is professor at DIKU, the department of Computer Science of the 
 ## Invited Talk
 
 ### Computer Architecture in Flux: The Central Processing Unit Is No Longer Central
-#### David Patterson, University of California Berkeley
+<h4 style="text-align: center;">David Patterson, University of California Berkeley</h4>
 
 ![Potrait of David Patterson](/img/dave_patterson.jpg)
 
@@ -45,7 +45,7 @@ Data is becoming more critical than compute due to its increasing cost and slowi
 ## Fresh Thinking Talk
 
 ### Effortless Locality Through On-the-fly Data Transformation
-#### Manos Athanassoulis, Boston University
+<h4 style="text-align: center;">Manos Athanassoulis, Boston University</h4>
 
 ![Potrait of David Patterson](/img/manos_athanassoulis.jpg)
 
