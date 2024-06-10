@@ -82,7 +82,10 @@ theme: "damon-light"
 
 
 ---
-#### 17:40-18:20 20th Year Panel
+#### 17:40-18:20 20th Year Panel: Looking back, and Looking forward!
+**Panelists**: Anastasia Ailamaki, Manos Athanassoulis, Peter Boncz, Philippe Bonnet
+{.px-3}
+
 ---
 #### 18:20-18:25 Workshop Closing (Carsten Binnig & Nesime Tatbul)
 ---

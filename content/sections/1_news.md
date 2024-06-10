@@ -6,6 +6,10 @@ hideMenu: true
 
 # News
 
+- Happy anniversary! Our DaMoN chatbot is live:
+    - Find it in the bottom right corner or at https://damonchat.streamlit.app/:
+    - It uses [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/) to search DaMoN proceeding and other documents
+    - Be warned: Answers might be inaccurate :)
 - All papers are available at the [ACM portal](https://dl.acm.org/doi/proceedings/10.1145/3662010)
 - [Workshop program](#workshop-program) posted.
 - We extended the camera-ready until Wednesday, May 15th, 2024 (11:59pm PST).
@@ -18,3 +22,5 @@ hideMenu: true
 - Submission site is now open: https://cmt3.research.microsoft.com/DaMoN2024.
 
 # <a href="https://twitter.com/intent/tweet?button_hashtag=DAMON2024&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-related="DaMoN_workshop" data-show-count="false">Tweet #DAMON2024</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{{< chatbtn url="https://damonchat.streamlit.app/?embed=true" >}}
