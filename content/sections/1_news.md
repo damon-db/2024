@@ -8,7 +8,7 @@ hideMenu: true
 
 - Happy anniversary! Our DaMoN chatbot is live:
     - Find it in the bottom right corner or at https://damonchat.streamlit.app/:
-    - It uses [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/) to search DaMoN proceeding and other documents
+    - It uses [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/) to search DaMoN proceedings and other documents
     - Be warned: Answers might be inaccurate :)
 - All papers are available at the [ACM portal](https://dl.acm.org/doi/proceedings/10.1145/3662010)
 - [Workshop program](#workshop-program) posted.
